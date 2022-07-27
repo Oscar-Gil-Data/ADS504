@@ -9,6 +9,6 @@ Project Description:
 ...
 
 
-The three csv files uploaded into this GitHub repository, are from Kaggle's Diabetes Health Indicators Dataset. They were uploaded here for ease of import into our Python project.
+The csv file uploaded into this GitHub repository, is from Kaggle's Diabetes Health Indicators Dataset. It was uploaded here for ease of import into our Python project.
 
-Kaggle Link: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+Kaggle Link: https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system?select=2015.csv
